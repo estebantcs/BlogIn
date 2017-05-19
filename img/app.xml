@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Application ts="1495157707051" uri="http://localhost/RentaFacil/files/" launch="StartAppRentaFacil">
+    <lib file="antlr.jar" checksum="3503407330" size="445288"/>
+    <lib file="bcmail-jdk14.jar" checksum="2156446904" size="192035"/>
+    <lib file="bcprov-jdk14.jar" checksum="224693267" size="1551468"/>
+    <lib file="bctsp-jdk14.jar" checksum="2750046016" size="22994"/>
+    <lib file="castor.jar" checksum="2005705879" size="864598"/>
+    <lib file="classmate.jar" checksum="2880354479" size="64110"/>
+    <lib file="commons-beanutils.jar" checksum="3052179556" size="232019"/>
+    <lib file="commons-collections.jar" checksum="2299175069" size="165119"/>
+    <lib file="commons-digester.jar" checksum="2702119393" size="196768"/>
+    <lib file="commons-logging.jar" checksum="2486592504" size="60686"/>
+    <lib file="controlsfx.jar" checksum="499123426" size="996389"/>
+    <lib file="dom4j.jar" checksum="2178828168" size="313898"/>
+    <lib file="geronimo-jta_1.1_spec.jar" checksum="1865729577" size="16030"/>
+    <lib file="h2.jar" checksum="844526490" size="1762629"/>
+    <lib file="hamcrest-core.jar" checksum="1597245928" size="45024"/>
+    <lib file="hibernate-commons-annotations.jar" checksum="17897698" size="75288"/>
+    <lib file="hibernate-core.jar" checksum="1313800450" size="5678549"/>
+    <lib file="hibernate-jpa-2.1-api.jar" checksum="4182846990" size="113371"/>
+    <lib file="itext.jar" checksum="2535862640" size="1130575"/>
+    <lib file="jackson-annotations.jar" checksum="1270135359" size="33527"/>
+    <lib file="jackson-core.jar" checksum="2172864164" size="195893"/>
+    <lib file="jackson-databind.jar" checksum="2495717226" size="850009"/>
+    <lib file="jandex.jar" checksum="1696662878" size="187752"/>
+    <lib file="jasperreports.jar" checksum="4169424754" size="4533922"/>
+    <lib file="javassist.jar" checksum="318629226" size="750581"/>
+    <lib file="jboss-logging.jar" checksum="2801527011" size="66802"/>
+    <lib file="jcommon.jar" checksum="959348903" size="309294"/>
+    <lib file="jdtcore.jar" checksum="1082758892" size="3555707"/>
+    <lib file="jfoenix.jar" checksum="246491409" size="2347998"/>
+    <lib file="jfreechart.jar" checksum="2279880075" size="1368681"/>
+    <lib file="jta.jar" checksum="1730749133" size="15071"/>
+    <lib file="junit.jar" checksum="1081652216" size="245039"/>
+    <lib file="RentaFacilv2-1.0-SNAPSHOT.jar" checksum="1860544992" size="3608468"/>
+    <lib file="slf4j-api.jar" checksum="3725406119" size="41077"/>
+    <lib file="slf4j-simple.jar" checksum="1910867193" size="11070"/>
+    <lib file="tomcat-dbcp.jar" checksum="2508029228" size="244813"/>
+    <lib file="tomcat-juli.jar" checksum="3175002381" size="40845"/>
+    <lib file="xml-apis.jar" checksum="207499705" size="194205"/>
+    <updateText>Updating...</updateText>
+    <updateLabelStyle>-fx-font-weight: bold;</updateLabelStyle>
+    <progressBarStyle>-fx-pref-width: 200;</progressBarStyle>
+    <wrapperStyle>-fx-spacing: 10; -fx-padding: 25;</wrapperStyle>
+    <acceptDowngrade>false</acceptDowngrade>
+    <lingeringUpdateScreen>false</lingeringUpdateScreen>
+</Application>
